@@ -18,4 +18,4 @@
 ### **Alunos**  
 - Bruna Chiochetta
 - Vinícius Costalunga Lima
--
+- Guilherme Goulart
