@@ -15,6 +15,29 @@
 
 *The numbers ​​should be printed on the same line, separated by a blank space. There is no space after the last number*
 
+### **Pré-requisitos**
+
+Antes de executar o projeto, as seguintes dependências devem estar presentes no sistema:
+- Git
+- Maven
+- JDK 11
+
+### **Executando o projeto**
+- Abra um terminal
+- Clone este repositório
+
+`git clone https://github.com/brunyy/t1-gcs.git`
+
+- Navegue para a pasta raiz do projeto
+
+`cd t1-gcs`
+
+- Compile o projeto, crie e execute o arquivo .jar
+
+`mvn package `
+
+`java -jar target/t1-gcs-0.1.0.jar`
+
 ### **Alunos**  
 - Bruna Chiochetta
 - Vinícius Costalunga Lima
