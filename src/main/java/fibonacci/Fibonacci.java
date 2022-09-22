@@ -1,12 +1,16 @@
 package fibonacci;
 
 import java.util.Arrays;
+import java.util.Scanner;
 
 public class Fibonacci {
     public static void main(String[] args) {
         int a = 1;
         int b = 0;
-        int n = 10;
+
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        sc.close();
 
         int[] fib = new int[n+1];
 
