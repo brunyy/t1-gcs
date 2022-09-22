@@ -1,6 +1,5 @@
 package fibonacci;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Fibonacci {
@@ -12,14 +11,16 @@ public class Fibonacci {
         int n = sc.nextInt();
         sc.close();
 
-        int[] fib = new int[n+1];
+        StringBuilder output = new StringBuilder();
 
-        for (int i = 1; i < n+1; i++ ) {
-            fib[i] = a;
+        for (int i = 0; i < n; i++ ) {
+            output.append(' ');
+            output.append(a);
             a = a + b;
             b = a - b;
         }
+        output.deleteCharAt(0);
 
-        System.out.println(Arrays.toString(fib));
+        System.out.print(output.toString());
     }
 }
