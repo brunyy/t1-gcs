@@ -17,5 +17,5 @@
 
 ### **Alunos**  
 - Bruna Chiochetta
--
+- Vinícius Costalunga Lima
 -
