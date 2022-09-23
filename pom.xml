@@ -28,7 +28,7 @@
                         <configuration>
                             <transformers>
                                 <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                                    <mainClass>fibonacci.Fibonacci</mainClass>
+                                    <mainClass>fibonacci.Main</mainClass>
                                 </transformer>
                             </transformers>
                         </configuration>
