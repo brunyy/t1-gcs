@@ -1,3 +1,11 @@
+<div align="center">
+
+[![Java CI with Maven](https://github.com/brunyy/t1-gcs/actions/workflows/maven.yml/badge.svg)](https://github.com/brunyy/t1-gcs/actions/workflows/maven.yml)
+[![Codacy Security Scan](https://github.com/brunyy/t1-gcs/actions/workflows/codacy.yml/badge.svg?branch=main)](https://github.com/brunyy/t1-gcs/actions/workflows/codacy.yml) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+</div>
+
 # t1-gcs
 ## Trabalho 1 - Gerenciamento de Configuração de Software
 
