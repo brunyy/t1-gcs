@@ -46,6 +46,10 @@ Antes de executar o projeto, as seguintes dependências devem estar presentes no
 
 `java -jar target/t1-gcs-0.1.0.jar`
 
+### **Enviando a solução ao Beecrowd**
+
+O Beecrowd requer que o código esteja inteiro em um mesmo arquivo. Para compilar o código corretamente no Beecrowd, basta copiar a classe Fibonacci (removendo o modificador "public") para dentro do arquivo da classe Main, e enviar a classe Main como solução.
+
 ### **Alunos**  
 - Bruna Chiochetta
 - Vinícius Costalunga Lima
